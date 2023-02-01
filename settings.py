@@ -6,9 +6,9 @@ default = {
 hosts = ["125.124.23.1"]
 
 # no load server 
-hosts2 = ["*"]
+# hosts2 = ["*"]
 
-server_default = {
-    "host":"766",
-    "port":"546",
-}
+# server_default = {
+#     "host":"766",
+#     "port":"546",
+# }
